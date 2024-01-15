@@ -1,7 +1,7 @@
 # To use:
 #   $ conda env create -f environment.yml
 #   $ conda activate <name>
-name: machinelearnear-hf-spaces
+name: machinelearnear-zonaprop
 dependencies:
   - python=3.9
   - pip
@@ -9,7 +9,17 @@ dependencies:
   - ipykernel
   - ipywidgets
   - gh
-  - opencv
   - pip:
+    - lxml
+    - numpy
+    - requests
+    - matplotlib
+    - transformers
+    - pandas
+    - ragatouille
+    - tiktoken
+    - openai
+    - langchain
+    - llama-index
     - streamlit
     - gradio
