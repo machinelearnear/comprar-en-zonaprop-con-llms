@@ -1,10 +1,15 @@
+# environents
+.env
+*/.ipynb_checkpoints
+
 # avoid these files
-*.csv
+airbnb_listings.csv
+airbnb_reviews.csv
 *.geojson
+.ipynb_checkpoints
 
 # and these folders
-processed/
-raw_data/
+raw_data/airbnb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
