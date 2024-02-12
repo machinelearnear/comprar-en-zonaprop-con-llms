@@ -2,6 +2,8 @@
 - https://www.machinelearnear.com/
 - https://www.youtube.com/@machinelearnear
 
+![youtube_thumbnail_machinelearnear (11) copy](https://github.com/machinelearnear/comprar-en-zonaprop-con-llms/assets/78419164/942ed8a8-8f89-4b63-9138-c519d634c4a8)
+
 Este proyecto se centra en el análisis exhaustivo de listados de propiedades de Airbnb y Zonaprop, específicamente en la zona de Buenos Aires. Usamos modelos de machine learning y técnicas avanzadas de análisis de datos para extraer insights valiosos que podrían ayudar tanto a compradores como a vendedores en el mercado inmobiliario.
 
 Nota: Todo este `README.md` obviamente esta generado con un LLM 🤡
