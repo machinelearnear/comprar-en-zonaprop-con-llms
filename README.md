@@ -1,4 +1,4 @@
-# Mucho machine learning con Zonaprop y con Airbnb
+# Un montón de ML con Zonaprop y con Airbnb
 - https://www.machinelearnear.com/
 - https://www.youtube.com/@machinelearnear
 
